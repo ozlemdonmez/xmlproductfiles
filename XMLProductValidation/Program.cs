@@ -20,9 +20,6 @@ namespace XMLProductValidation
 
         }
 
-        static void ValidateXML()
-        {
-            
-        }
+        
     }
 }
